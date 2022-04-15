@@ -1,0 +1,105 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #222831;
+    letter-spacing: 5px;
+}
+.top-container{
+    padding-top: 150px;
+    background-color: #00adb5;
+}
+.first-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.second-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+.name{
+    width: 20%;
+    margin: 0 auto 0 auto;
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+}
+.intro-image{
+    width: 200px;
+}
+.middle-container{
+    margin-top: 100px;
+    background-color: #222831;
+}
+.intro{
+    color: #30e3ca;
+}
+p{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #e4f9f5;
+}
+h2{
+    color: #30e3ca;
+}
+.web-developer{
+    font-size: 80px;
+    font-family: 'Sacramento', cursive;
+    color:black;
+}
+.skills{
+    color: #30e3ca;
+}
+.cyber{
+    width: 150px;
+    position: absolute;
+    left: 1100px;
+    top: 1700px;
+
+}
+.social{
+    position: absolute;
+    left: 300px;
+}
+.world{
+    width: 200px;
+    margin: 0%;
+    position: absolute;
+    left: 1080px;
+    top: 1980px;
+}
+h3{
+    margin-top: 0;
+}
+.facebook-btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 16px;
+    border-radius: 50%;
+}
+.github-btn {
+    background-color: #555555;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 16px;
+    border-radius: 50%;
+}
+
+.github-btn:hover{
+    background-color: #00adb5;
+}
+.facebook-btn:hover{
+    background-color: #00adb5;
+}
